@@ -2,9 +2,9 @@
 Topik: [Tuliskan judul topik, misalnya "Class dan Object"]
 
 ## Identitas
-- Nama  : [Nama Mahasiswa]
-- NIM   : [NIM Mahasiswa]
-- Kelas : [Kelas]
+- Nama  : [Rayendra Apta Nayottama]
+- NIM   : [240202880]
+- Kelas : [3 IKRA]
 
 ---
 
@@ -44,7 +44,7 @@ System.out.println(p1.getNama());
 
 ## Hasil Eksekusi
 (Sertakan screenshot hasil eksekusi program.  
-![Screenshot hasil](screenshots/hasil.png)
+![Screenshot hasil](screenshots/week7koleksikeranjang.png)
 )
 ---
 
