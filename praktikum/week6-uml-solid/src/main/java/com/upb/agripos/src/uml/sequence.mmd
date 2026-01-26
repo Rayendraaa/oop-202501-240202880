@@ -1,0 +1,9 @@
+sequenceDiagram
+View->>Controller: add()
+Controller->>Service: insert()
+Service->>DAO: insert()
+DAO->>DB: save()
+DB-->>DAO: OK
+DAO-->>Service: OK
+Service-->>Controller: OK
+Controller-->>View: refresh()

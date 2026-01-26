@@ -1,0 +1,12 @@
+classDiagram
+class Product
+class ProductDAO
+class ProductDAOImpl
+class ProductService
+class ProductController
+class View
+
+ProductService --> ProductDAO
+ProductDAOImpl ..|> ProductDAO
+ProductController --> ProductService
+View --> ProductController
